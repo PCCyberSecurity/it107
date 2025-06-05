@@ -1,0 +1,7 @@
+requests
+ping3
+matplotlib
+pystray
+pillow
+python-dotenv
+keyring
